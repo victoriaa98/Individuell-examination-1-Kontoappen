@@ -83,7 +83,7 @@ public class Main {
         while (true) {
             String input = scanner.nextLine();
             input = input.replace(',', '.');
-1
+
             boolean valid = true;
             int decimalPoints = 0;
             int digits = 0;
